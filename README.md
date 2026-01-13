@@ -70,6 +70,8 @@ This project followed an end-to-end Excel dashboard development process designed
 *Data Analysis and Visualization*
 
 After data preparation, Pivot Tables and Pivot Charts were used to perform exploratory and explanatory analysis, resulting in a comprehensive interactive dashboard.
+![Furniture Sales Dashboard](Screenshot%20(10).png)
+
 
 
 
