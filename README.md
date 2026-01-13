@@ -5,6 +5,9 @@ Furniture is more than just tables and chairs it’s comfort, style, and the fou
 As a data analyst for this furniture business, my mission is to look beyond the showroom and uncover the patterns hidden within the numbers from sales trends and customer preferences to shipping performance and regional demand. By analyzing this data, we can identify what sells best, when customers buy the most, and where growth opportunities truly exist.
 This data isn’t just about sales it’s about building smarter strategies, improving customer experience, and furnishing the path to sustainable business success. 
 
+![Furniture Decor](furniture%20decor.webp)
+
+
 
 
 
